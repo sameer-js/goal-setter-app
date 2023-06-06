@@ -1,7 +1,7 @@
 {
   "name": "goals-app",
   "version": "1.0.0",
-  "description": "",
+  "description": "Goal setting app",
   "main": "server.js",
   "scripts": {
     "start": "node backend/server.js",
@@ -14,6 +14,7 @@
     "colors": "^1.4.0",
     "dotenv": "^16.1.4",
     "express": "^4.18.2",
+    "express-async-handler": "^1.2.0",
     "mongoose": "^7.2.2"
   },
   "devDependencies": {
