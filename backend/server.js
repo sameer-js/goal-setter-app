@@ -14,6 +14,7 @@ app.use(express.json()); // recognize incoming request as json object
 app.use(express.urlencoded({ extended: false })); // parses the incoming request with urlencoded payloads and is based upon the body-parser
 
 app.use('/api/goals', require('./routes/goalRoutes'));
+app.use('/api/users', require('./routes/userRoutes'));
 
 app.use(errorHandler);
 
