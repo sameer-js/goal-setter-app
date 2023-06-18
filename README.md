@@ -1,6 +1,7 @@
 # goal-setter-app
 
-# Getting Started
+Application for setting goals (creating and deleting). Also contains user authentication.
+Created using MERN stack (MongoDB for database, Express and NodeJS for backend, React and Redux Toolkit for frontend.
 
 The frontend of this project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
