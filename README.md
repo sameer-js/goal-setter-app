@@ -10,12 +10,12 @@ In the project directory, you can run:
 
 ```
 npm install
-_For backend dependencies_
+(for backend dependencies)
 
 
 cd frontend
 npm install
-_For frontend dependencies_
+(for frontend dependencies)
 ```
 
 ### `npm start`
