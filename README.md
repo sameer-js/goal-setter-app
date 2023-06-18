@@ -9,13 +9,13 @@ The frontend of this project was bootstrapped with [Create React App](https://gi
 In the project directory, you can run:
 
 ```
-`npm install`
-**For backend dependencies**
+npm install
+_For backend dependencies_
 
 
-`cd frontend`
-`npm install`
-**For frontend dependencies**
+cd frontend
+npm install
+_For frontend dependencies_
 ```
 
 ### `npm start`
