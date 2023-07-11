@@ -50,4 +50,4 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-https://goal-setter-o2sw.onrender.com/
+Deployed on [goal-setter-app](https://goal-setter-o2sw.onrender.com/)
